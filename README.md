@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcj000107)](https://solved.ac/lcj000107)<br/>-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcj000107&layout=compact)](https://github.com/lcj000107/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaejeong-lee&layout=compact)](https://github.com/chaejeong-lee/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcj000107&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaejeong-lee&show_icons=true&theme=radical)
