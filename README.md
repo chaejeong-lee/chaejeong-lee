@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20render&fontSize=90&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%10This is chaejeong&fontSize=90&animation=blink)
 
 ### Hi there 👋
 
