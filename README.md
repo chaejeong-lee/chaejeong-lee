@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?height=400&text=Hello%20World!&desc=Hello%20capsule%20render)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Hello&desc=This%20is%20chaejeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Hello&desc=This%20is%20chaejeong)
 
 ### Hi there 👋
 
