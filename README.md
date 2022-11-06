@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=capsule%20render&fontSize=90)
 
 ### Hi there 👋
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcj000107)](https://solved.ac/lcj000107)<br/>
