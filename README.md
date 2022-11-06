@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcj000107)](https://solved.ac/lcj000107)<br/>
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcj000107)](https://solved.ac/lcj000107)<br/>-->
